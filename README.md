@@ -1,4 +1,4 @@
-#TO AUTOMATICALY RUN THIS APP CLICK HERE => http://localhost:4200/
+#TO AUTOMATICALY RUN THIS APP CLICK HERE => https://lafric.github.io/AngularTodoApp/ THEN CLICK THE << http://localhost:4200/ >> OF THE DOCUMENT THAT WILL BE DISPLAY
 
 
 # AngularTodoApp
