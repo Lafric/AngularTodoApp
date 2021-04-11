@@ -1,6 +1,3 @@
-#TO AUTOMATICALY RUN THIS APP CLICK HERE => https://lafric.github.io/AngularTodoApp/ THEN CLICK THE << http://localhost:4200/ >> OF THE DOCUMENT THAT WILL BE DISPLAY
-
-
 # AngularTodoApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
