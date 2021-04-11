@@ -1,3 +1,6 @@
+#TO AUTOMATICALY RUN THIS APP CLICK HERE => http://localhost:4200/
+
+
 # AngularTodoApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
