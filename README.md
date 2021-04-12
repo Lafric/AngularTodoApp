@@ -1,3 +1,26 @@
+<h1>About</h1>
+This is a small TodoList-App version generated with the powerful framework Angular. With it you can Add, Delete and underline TodoTask
+
+<h1>INSTALLATION</h1>
+To install and run this project follow these steps:
+
+Clone this repository
+
+Install Angular cli Dependency
+
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/
+
+<h1>Example</h1>
+<h2>the Todo-App page</h2>
+<img src = "src/assets/page.png">
+
+<h2>The code</h2>
+<img src = "src/assets/Code.png">
+
+
+
+
+
 # AngularTodoApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
