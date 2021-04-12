@@ -46,3 +46,8 @@ export class TodosComponent implements OnInit {
   }
 
 }
+
+/*TODO*/
+
+/* - add fontawesome to use the recycle bin image for remove
+   - add a swipe functionality (if the user swipe right it means the task is done)*/
